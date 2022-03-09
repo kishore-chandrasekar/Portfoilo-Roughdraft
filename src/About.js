@@ -28,17 +28,17 @@ function About() {
                                     </div>
                                     <div class="skill-mf">
                                         <p class="title-s">Skill</p>
-                                        <span>HTML</span> <span class="pull-right">75%</span>
+                                        <span>HTML+CSS</span> <span class="pull-right">75%</span>
                                         <div class="progress">
                                             <div class="progress-bar" role="progressbar" style={{width: '75%'}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
-                                        <span>CSS</span> <span class="pull-right">70%</span>
+                                        <span>ReactJS</span> <span class="pull-right">80%</span>
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" style={{width: '70%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                            <div class="progress-bar" role="progressbar" style={{width: '70%'}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
-                                        <span>JAVASCRIPT</span> <span class="pull-right">80%</span>
+                                        <span>NodeJS</span> <span class="pull-right">70%</span>
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" style={{width: '80%'}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                            <div class="progress-bar" role="progressbar" style={{width: '80%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                         <span>MONGO-DB</span> <span class="pull-right">60%</span>
                                         <div class="progress">

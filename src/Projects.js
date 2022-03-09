@@ -1,7 +1,10 @@
 import React from 'react';
-import img1 from "./images/project1.jpg"
+import img1 from "./images/project1.png"
 import img2 from "./images/project2.jpg"
-import img3 from "./images/project3.jpg"
+import img3 from "./images/project3.png"
+import img4 from "./images/project4.jpg"
+import img5 from "./images/project5.png"
+import img6 from "./images/project6.png"
 
 function Projects() {
     return <>
@@ -23,7 +26,7 @@ function Projects() {
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="https://serene-bhaskara-1d0c01.netlify.app/" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="https://amazon-clone-ck.netlify.app/" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src={img1} alt="" class="img-fluid"/>
                 </div>
@@ -31,9 +34,9 @@ function Projects() {
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">To-Do List app using React</h2>
+                    <h2 class="w-title">A replica of Amazon E-commerce website</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">14-Nov-2021</span>
+                      <span class="w-ctegory">ReactJS+NodeJS+MongoDB</span> 
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -47,7 +50,7 @@ function Projects() {
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="https://serene-bhaskara-1d0c01.netlify.app/" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src={img2} alt="" class="img-fluid"/>
                 </div>
@@ -55,9 +58,9 @@ function Projects() {
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Project2</h2>
+                    <h2 class="w-title">A Simple To-Do List</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">12-Nov-2021</span>
+                    <span class="w-ctegory">ReactJS+BootStrap</span> 
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -71,7 +74,7 @@ function Projects() {
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="https://unruffled-montalcini-33518f.netlify.app/" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
                   <img src={img3} alt="" class="img-fluid"/>
                 </div>
@@ -79,9 +82,81 @@ function Projects() {
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Project3</h2>
+                    <h2 class="w-title">A replica of Netflix</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">24-Dec-2021</span>
+                    <span class="w-ctegory">ReactJS+FireBase+BootStrap</span> 
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="https://weatherin-react.netlify.app/" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src={img4} alt="" class="img-fluid"/>
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">WheatherDetails with Location based search</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">ReactJS</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="https://naughty-heyrovsky-6bf726.netlify.app" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src={img5} alt="" class="img-fluid"/>
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Income Expense Tracker</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">ReactJS+NodeJS+MongoDB+BootStrap</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="https://sad-murdock-f30e1b.netlify.app/" target="_blank" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src={img6} alt="" class="img-fluid"/>
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Attendance Marking App</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">ReactJS+BootStrap+MockAPI</span> 
                     </div>
                   </div>
                   <div class="col-sm-4">

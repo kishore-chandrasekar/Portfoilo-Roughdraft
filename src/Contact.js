@@ -22,7 +22,7 @@ function Contact() {
                                                Need more Info kindly contact with below mentioned details
                                             </p>
                                             <ul class="list-ico">
-                                                <li><i class="fa fa-map-marker" aria-hidden="true"></i> 430,A.K Vakkam,Thirukandalam(po),Thiruvallur,Pincode-601103</li>
+                                                <li><i class="fa fa-map-marker" aria-hidden="true"></i> 430,A.K.Vakkam, Thirukandalam(po),Thiruvallur,Pincode-601103</li>
                                                 <li><i class="fas fa-mobile"></i> Primary-9444841234</li>
                                                 <li><i class="fal fa-mobile"></i> Alternate-8667390040</li>
                                                 <li><i class="fa fa-envelope" aria-hidden="true"></i> karthiikkishore@gmail.com</li>
