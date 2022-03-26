@@ -53,7 +53,7 @@ function Navbar() {
                             </Link></li>
                             <li className='nav-item'><a
 
-                                href='https://drive.google.com/file/d/1K_6prvpcgqYS-2fMbhU3DA0bfW67RIBR/view?usp=sharing' target="_blank"
+                                href='https://drive.google.com/file/d/1nC5UkmVqKFtg3F6_VM8Tc07u_zkP71Lj/view' target="_blank"
 
                                 smooth
 

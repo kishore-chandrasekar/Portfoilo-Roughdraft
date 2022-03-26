@@ -30,8 +30,6 @@ function Contact() {
                                         </div>
                                         <div class="socials">
                                             <ul>
-                                                <li><a href="https://www.facebook.com/karthiikkishore240698" target="_blank"><span class="ico-circle"><i class="fab fa-facebook-f"></i></span></a></li>
-                                                <li><a href="https://www.instagram.com/karthiik__kishore/" target="_blank"><span class="ico-circle"><i class="fab fa-instagram"></i></span></a></li>
                                                 <li><a href="https://github.com/kishore-chandrasekar" target="_blank"><span class="ico-circle"><i class="fab fa-github"></i></span></a></li>
                                                 <li><a href="https://www.linkedin.com/in/kishore-chandrasekar-b9265017a/" target="_blank"><span class="ico-circle"><i class="fab fa-linkedin" ></i></span></a></li>
                                             </ul>

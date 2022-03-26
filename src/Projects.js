@@ -5,6 +5,7 @@ import img3 from "./images/project3.png"
 import img4 from "./images/project4.jpg"
 import img5 from "./images/project5.png"
 import img6 from "./images/project6.png"
+import Link from 'react-router-dom'
 
 function Projects() {
     return <>
@@ -35,6 +36,8 @@ function Projects() {
                 <div class="row">
                   <div class="col-sm-8">
                     <h2 class="w-title">A replica of Amazon E-commerce website</h2>
+                    <div><a href='https://github.com/kishore-chandrasekar/Amazon-clone' target="_blank"><button className='btn btn-primary sm'>Source code</button></a>
+                    </div>
                     <div class="w-more">
                       <span class="w-ctegory">ReactJS+NodeJS+MongoDB</span> 
                     </div>
@@ -59,6 +62,8 @@ function Projects() {
                 <div class="row">
                   <div class="col-sm-8">
                     <h2 class="w-title">A Simple To-Do List</h2>
+                    <div><a href='https://github.com/kishore-chandrasekar/TodoList-in-React' target="_blank"><button className='btn btn-primary sm'>Source code</button></a>
+                    </div>
                     <div class="w-more">
                     <span class="w-ctegory">ReactJS+BootStrap</span> 
                     </div>
@@ -83,6 +88,8 @@ function Projects() {
                 <div class="row">
                   <div class="col-sm-8">
                     <h2 class="w-title">A replica of Netflix</h2>
+                    <div><a href='https://github.com/kishore-chandrasekar/Netflix-clone' target="_blank"><button className='btn btn-primary sm'>Source code</button></a>
+                    </div>
                     <div class="w-more">
                     <span class="w-ctegory">ReactJS+FireBase+BootStrap</span> 
                     </div>
@@ -106,7 +113,9 @@ function Projects() {
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">WheatherDetails with Location based search</h2>
+                    <h2 class="w-title">WeatherDetails with Location based search</h2>
+                    <div><a href='https://github.com/kishore-chandrasekar/weatherApp-react' target="_blank"><button className='btn btn-primary sm'>Source code</button></a>
+                    </div>
                     <div class="w-more">
                       <span class="w-ctegory">ReactJS</span>
                     </div>
@@ -131,6 +140,8 @@ function Projects() {
                 <div class="row">
                   <div class="col-sm-8">
                     <h2 class="w-title">Income Expense Tracker</h2>
+                    <div><a href='https://github.com/kishore-chandrasekar/money-manager-frontend' target="_blank"><button className='btn btn-primary sm'>Source code</button></a>
+                    </div>
                     <div class="w-more">
                       <span class="w-ctegory">ReactJS+NodeJS+MongoDB+BootStrap</span>
                     </div>
@@ -155,6 +166,8 @@ function Projects() {
                 <div class="row">
                   <div class="col-sm-8">
                     <h2 class="w-title">Attendance Marking App</h2>
+                    <div><a href='https://github.com/kishore-chandrasekar/Attendance-Maintainence-CRM' target="_blank"><button className='btn btn-primary sm'>Source code</button></a>
+                    </div>
                     <div class="w-more">
                       <span class="w-ctegory">ReactJS+BootStrap+MockAPI</span> 
                     </div>
