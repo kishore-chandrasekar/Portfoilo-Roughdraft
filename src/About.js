@@ -20,7 +20,7 @@ function About() {
                                         <div class="col-sm-6 col-md-7">
                                             <div class="about-info">
                                                 <p><span class="title-s">Name: </span> <span>Kishore Chandrasekar</span></p>
-                                                <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
+                                                <p><span class="title-s">Profile: </span> <span>Full stack Developer</span></p>
                                                 <p><span class="title-s">Email: </span> <span style={{fontSize:"14px"}}>karthiikkishore@gmail.com</span></p>
                                                 <p><span class="title-s">Phone: </span> <span>9444841234</span></p>
                                             </div>
@@ -34,11 +34,15 @@ function About() {
                                         </div>
                                         <span>ReactJS</span> <span class="pull-right">80%</span>
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" style={{width: '70%'}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                            <div class="progress-bar" role="progressbar" style={{width: '80%'}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                        </div>
+                                        <span>VueJS</span> <span class="pull-right">80%</span>
+                                        <div class="progress">
+                                            <div class="progress-bar" role="progressbar" style={{width: '80%'}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                         <span>NodeJS</span> <span class="pull-right">70%</span>
                                         <div class="progress">
-                                            <div class="progress-bar" role="progressbar" style={{width: '80%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                                            <div class="progress-bar" role="progressbar" style={{width: '70%'}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                         <span>MONGO-DB</span> <span class="pull-right">60%</span>
                                         <div class="progress">
@@ -63,9 +67,9 @@ function About() {
                                         </div>
                                         <p class="lead">
                                             Hi! I am Kishore Chandrasekar from Chennai.I am a Graduate engineer of class 2020.
-                                            I am a Full stack developer(MERN) currently looking for a job. I always try to conquer
+                                            I am a Full stack developer(MERN) currently looking for a job change. I always try to conquer
                                             something which challenges me more and  always find something more interesting only when its
-                                            complicated. Presently I'm building small websites for local businesses of friends and family.
+                                            complicated. Presently I'm working as a UI Developer in D-ACES India pvt ltd.
 
                                             
                                         </p>

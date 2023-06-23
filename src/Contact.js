@@ -19,7 +19,7 @@ function Contact() {
                                         </div>
                                         <div class="more-info">
                                             <p class="lead">
-                                               Need more Info kindly contact with below mentioned details
+                                               Need more Info ! kindly contact with below mentioned details
                                             </p>
                                             <ul class="list-ico">
                                                 <li><i class="fa fa-map-marker" aria-hidden="true"></i> 430,A.K.Vakkam, Thirukandalam(po),Thiruvallur,Pincode-601103</li>

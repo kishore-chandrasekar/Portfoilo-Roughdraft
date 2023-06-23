@@ -16,7 +16,7 @@ function Home() {
                         <h3 className='hero-subtitle '>
                             <Type onInit={(effect) => {
                                 effect
-                                    .typeString("Graduate Engineer")
+                                    .typeString("Engineer")
                                     .pauseFor(2000)
                                     .deleteAll()
                                     .typeString("Full stack Developer")
